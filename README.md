@@ -1,0 +1,2 @@
+# habit
+mini django project
